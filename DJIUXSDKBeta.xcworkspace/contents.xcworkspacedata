@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:DJIUXSDKBeta.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../DJIWidget-master/DJIWidget.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DJIUXSDKCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DJIUXSDKWidgets.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DJIUXSDKCommunication.xcodeproj">
+   </FileRef>
+</Workspace>
